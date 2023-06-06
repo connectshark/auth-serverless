@@ -1,0 +1,21 @@
+{
+  "name": "auth-serverless",
+  "version": "1.0.0",
+  "description": "a serverless of auth server",
+  "keywords": [
+    "vercel",
+    "serverless"
+  ],
+  "repository": {
+    "url": "https://github.com/connectshark/telegram-bot-vercel-serverless-template",
+    "type": "git"
+  },
+  "author": {
+    "name": "Chambers",
+    "email": "bobhus394@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
